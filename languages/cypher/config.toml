@@ -1,0 +1,4 @@
+name = "Cypher"
+grammar = "cypher"
+path_suffixes = ["cql", "cypher"]
+line_comments = ["//"]
